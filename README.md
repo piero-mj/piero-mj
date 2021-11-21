@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @piero-mj
+- 🌱 I’m currently learning  front-end dev    11.22 2021
